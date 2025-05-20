@@ -7,6 +7,9 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 
 ## 📜 Certificações
 
+**CCST - Certified Core Software Tester**  
+[![CCST](https://images.credly.com/size/160x160/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/image.png)](https://www.credly.com/badges/5123ad45-c289-473e-b451-52eaccd2d569)
+
 **AWS Educate**  
 [![AWS Educate](https://images.credly.com/size/160x160/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png)](https://www.credly.com/badges/20c9bde6-e9ed-4c6f-a675-f008a017018c/linked_in?t=stdxdk)
 
@@ -18,7 +21,6 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 
 **Fortinet Certified Fundamentals in Cybersecurity**  
 [![Fortinet Certified Fundamentals in Cybersecurity](https://images.credly.com/size/160x160/images/20082fc1-94af-4773-9df0-28856b566748/image.png)](https://www.credly.com/badges/836eed8c-c270-4863-b1aa-c070c9094945/linked_in?t=st0a56)
-
 
 ---
 
