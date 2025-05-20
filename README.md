@@ -7,7 +7,7 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 
 ## 📜 Certificações
 
-**CCST - Certified Core Software Tester**  
+**CCST - Cisco Certified Support Technician Networking**  
 [![CCST](https://images.credly.com/size/160x160/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/image.png)](https://www.credly.com/badges/5123ad45-c289-473e-b451-52eaccd2d569)
 
 **AWS Educate**  
