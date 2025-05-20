@@ -6,7 +6,6 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 ---
 
 ## 📜 Certificações
-
 [![AWS Educate](https://images.credly.com/size/110x110/images/2e5f11c1-4ef8-4de7-92b1-207c245b9e61/image.png)](https://www.credly.com/badges/20c9bde6-e9ed-4c6f-a675-f008a017018c/linked_in?t=stdxdk)  
 **AWS Educate**
 
