@@ -7,8 +7,7 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 
 ## 📜 Certificações
 
-| CCST - Cisco Certified Support | AWS Educate | AWS Certified Cloud Practitioner |
-Technician Networking 
+| CCST - Support Technician Networking | AWS Educate | AWS Certified Cloud Practitioner |
 | ---------------------------------------------------- | ----------- | -------------------------------- |
 | [![CCST](https://images.credly.com/size/160x160/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/image.png)](https://www.credly.com/badges/5123ad45-c289-473e-b451-52eaccd2d569) | [![AWS Educate](https://images.credly.com/size/160x160/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png)](https://www.credly.com/badges/20c9bde6-e9ed-4c6f-a675-f008a017018c/linked_in?t=stdxdk) | [![AWS Certified Cloud Practitioner](https://images.credly.com/size/160x160/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/de86ee7a-abed-4148-b9ab-2ee11161f6fc/linked_in) |
 
