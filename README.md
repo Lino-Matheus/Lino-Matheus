@@ -16,18 +16,7 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cisco,azure,windows,grafana,aws,linux,zabbix,notion,gmail,gcp,docker,kubernetes,jenkins,git,github,vscode,terraform,prometheus,mysql,python,ansible" />
-</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-    <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044">
-    <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white">
-    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
-    <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
-    <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=azure,windows,grafana,aws,linux,notion,gmail,cisco" />
 </p>
 
 ---
@@ -47,14 +36,7 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-lino-955271195/)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cl0uD-C1SC0&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/Lino-Matheus)
 
 ---
 
@@ -64,7 +46,7 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
   <a href="https://www.linkedin.com/in/matheus-lino-955271195/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/cl0uD-C1SC0">
+  <a href="https://github.com/Lino-Matheus">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
@@ -76,7 +58,7 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 <h4 align="center">
     Obrigado por visitar! 🚀
     <div>
-     <img src="https://komarev.com/ghpvc/?username=cl0uD-C1SC0">
+     <img src="https://komarev.com/ghpvc/?username=Lino-Matheus">
     </div>
 </h4>
 
