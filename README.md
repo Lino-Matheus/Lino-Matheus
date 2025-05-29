@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Matheus Lino
+# Matheus Lino
 
 Sou apaixonado por tecnologia, com experiência em **infraestrutura**, **servidores Linux e Windows**, **redes** e **segurança da informação**.  
 Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos profissionais com foco em prática e mercado.
