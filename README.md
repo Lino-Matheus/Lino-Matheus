@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=808080&background=0D1117&center=true&vCenter=true&width=435&lines=Infraestrutura%20%7C%20Cloud%20%7C%20Segurança;Instrutor%20de%20TI;%F0%9F%92%BB%F0%9F%96%A5%F0%9F%93%B1%E2%8C%9A%EF%B8%8F%F0%9F%93%A1" />
 </p>
 
-# Matheus Lino
-
 Sou apaixonado por tecnologia, com experiência em **infraestrutura**, **servidores Linux e Windows**, **redes** e **segurança da informação**.
 Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos profissionais com foco em prática e mercado.
 
