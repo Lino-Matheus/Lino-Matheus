@@ -34,13 +34,6 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 
 ---
 
-## 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-lino-955271195/)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/Lino-Matheus)
-
----
-
 ## 📫 Vamos nos conectar?
 
 <p align="center">
