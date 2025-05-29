@@ -16,7 +16,7 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,windows,grafana,aws,linux,notion,gmail,linkedin,nginx,github,linkedin," />
+  <img src="https://skillicons.dev/icons?i=azure,aws,windows,linux,grafana,nginxn,notion,gmail,linkedin,github," />
 </p>
 
 ---
