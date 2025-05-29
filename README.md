@@ -1,7 +1,34 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:FFFFFF&height=180&section=header&text=Matheus%20Lino%20🚀&fontSize=40&fontColor=ffffff" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=808080&background=0D1117&center=true&vCenter=true&width=435&lines=Infraestrutura%20%7C%20Cloud%20%7C%20Segurança;Instrutor%20de%20TI;%F0%9F%92%BB%F0%9F%96%A5%F0%9F%93%B1%E2%8C%9A%EF%B8%8F%F0%9F%93%A1" />
+</p>
+
 # Matheus Lino
 
-Sou apaixonado por tecnologia, com experiência em **infraestrutura**, **servidores Linux e Windows**, **redes** e **segurança da informação**.  
+Sou apaixonado por tecnologia, com experiência em **infraestrutura**, **servidores Linux e Windows**, **redes** e **segurança da informação**.
 Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos profissionais com foco em prática e mercado.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cisco,azure,windows,grafana,aws,linux,zabbix,notion,gmail,gcp,docker,kubernetes,jenkins,git,github,vscode,terraform,prometheus,mysql,python,ansible" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+    <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044">
+    <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
+    <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
+    <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white">
+</p>
 
 ---
 
@@ -20,3 +47,39 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-lino-955271195/)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cl0uD-C1SC0&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-lino-955271195/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/cl0uD-C1SC0">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+<br><br>
+
+---
+
+<h4 align="center">
+    Obrigado por visitar! 🚀
+    <div>
+     <img src="https://komarev.com/ghpvc/?username=cl0uD-C1SC0">
+    </div>
+</h4>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:808080,100:FFFFFF&height=100&section=footer" />
+</p>
