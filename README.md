@@ -17,7 +17,7 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,aws,windows,linux,grafana,nginx,notion,gmail,linkedin,github," />
-  <img src="https://github.com/LelouchFR/skill-icons?=apache" />
+  <img src="https://github.com/LelouchFR/skill-icons=apache," />
 </p>
 
 ---
