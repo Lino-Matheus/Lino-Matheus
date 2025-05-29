@@ -14,7 +14,7 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,windows,linux,debian,grafana,zabbix,apache,nginx,notion,gmail,linkedin,github,vmwareworkstation,virtualbox,,,,,python,wireshark,word,excel,powerpoint,notepadpp,github," />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,windows,linux,debian,grafana,zabbix,apache,nginx,notion,gmail,linkedin,vmwareworkstation,virtualbox,,,,,wireshark,word,excel,powerpoint,notepadpp,github," />
 </p>
 
 
