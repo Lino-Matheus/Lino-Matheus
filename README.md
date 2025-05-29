@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=808080&background=0D1117&center=true&vCenter=true&width=435&lines=Infraestrutura%20%7C%20Cloud%20%7C%20Segurança;Instrutor%20de%20TI;%F0%9F%92%BB%F0%9F%96%A5%F0%9F%93%B1%E2%8C%9A%EF%B8%8F%F0%9F%93%A1" />
 </p>
 
-Sou apaixonado por tecnologia, com experiência em **infraestrutura**, **servidores Linux e Windows**, **redes** e **segurança da informação**.
+Sou apaixonado por tecnologia, com experiência em **infraestrutura**, **servidores Linux e Windows**, **redes** e **segurança da informação**.  
 Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos profissionais com foco em prática e mercado.
 
 ---
@@ -14,7 +14,18 @@ Atualmente sou **instrutor na Escola SENAI de Informática**, formando novos pro
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,windows,linux,grafana,nginx,notion,gmail,linkedin,github," />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Linux-Dark.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Windows-Dark.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Debian-Dark.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Azure-Dark.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/AWS-Dark.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Apache-Dark.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Nginx-Dark.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Grafana-Dark.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Git-Dark.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/GitHub-Dark.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/LinkedIn-Dark.svg" width="40px" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/icons/Notion-Dark.svg" width="40px" />
 </p>
 
 ---
